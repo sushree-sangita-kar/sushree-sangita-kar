@@ -55,9 +55,3 @@
   <img src="https://img.shields.io/badge/10x_Visium-222222?style=flat">
 </p>
 
-### Current projects
-
-> Both projects are unpublished. Code will be released here after publication.
-
-- **Prognostic modelling in triple-negative breast cancer** (PhD thesis): integrating single-cell and bulk transcriptomics to relate tumour cell states to patient outcome.
-- **Tumour cell states in hepatocellular carcinoma** (academic collaboration): single-cell characterisation of stem-like tumour populations.
