@@ -1,6 +1,7 @@
-<h1 align="center">Sushree Sangita Kar</h1>
 <p align="center">
-  <b>Bioinformatician · Single-cell & Spatial Transcriptomics · Cancer Genomics</b><br>
+  <img src="assets/banner.png" alt="Sushree Sangita Kar · Single-cell · Spatial Transcriptomics · Cancer Genomics" width="100%">
+</p>
+<p align="center">
   PhD researcher building prognostic models from single-cell and bulk tumour transcriptomes
 </p>
 
