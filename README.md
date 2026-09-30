@@ -17,7 +17,7 @@
 
 ### About
 
-- <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/d874b4ed-02da-427f-a36a-038b9faf48fd" /> I analyse **single-cell, spatial and bulk RNA-seq** data to understand tumour heterogeneity and link cell states to patient outcome.
+- 💻 **single-cell, spatial and bulk RNA-seq** data to understand tumour heterogeneity and link cell states to patient outcome.
 - 🧬 PhD work: a **single-cell-derived prognostic signature in triple-negative breast cancer**.
 - 🤝 Collaborative work on **cancer stem cell states in hepatocellular carcinoma**.
 - ⚙️ I work end to end on HPC: from single-cell analysis to survival models and publication figures.
