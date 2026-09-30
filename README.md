@@ -2,7 +2,8 @@
   <img src="assets/banner.svg" alt="Sushree Sangita Kar · Single-cell · Spatial Transcriptomics · Cancer Genomics  " width="100%">
 </p>
 <p align="center">
-   PhD researcher building prognostic models from single-cell and bulk tumour transcriptomes
+  <b>Single-cell · Spatial Transcriptomics · Cancer Genomics</b><br>
+  PhD researcher building prognostic models from single-cell and bulk tumour transcriptomes
 </p>
 
 <!-- Add your links here when ready, e.g.

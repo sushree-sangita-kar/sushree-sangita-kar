@@ -1107,7 +1107,6 @@
 <ellipse cx="824.8" cy="-49.2" rx="3.2" ry="1.9" fill="#FFFFFF" opacity=".35" transform="rotate(-30 824.8 -49.2)"/>
 </g>
 </g>
-<text x="600" y="102.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#334155">Sushree Sangita Kar</text>
-<text x="600" y="136.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#64748B" letter-spacing="1">Single-cell · Spatial Transcriptomics · Cancer Genomics</text>
+<text x="600" y="115.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#334155">Sushree Sangita Kar</text>
 <rect x=".5" y=".5" width="1199" height="199" rx="16" fill="none" stroke="#E5E7EB"/>
 </svg>
